@@ -1,0 +1,3 @@
+start chrome.exe --remote-debugging-port=9222
+https://propertyengine.co.uk/properties?_0:(area:ilford-greater-london,filters:!((options:(hideNewBuild:!f,hideOwnershipScheme:!t,hideRetirement:!t,hideSoldSTCRemoved:!t),type:dontShow),(options:(range:!(40000,!n)),type:askingPrice),(options:(range:!(3,4)),type:bedrooms)),sort:lowestPrice)
+https://propertyengine.co.uk/properties?_0:(area:london,filters:!((options:(hideNewBuild:!f,hideOwnershipScheme:!t,hideRetirement:!t,hideSoldSTCRemoved:!t),type:dontShow),(options:(range:!(400000,500000)),type:askingPrice)),sort:newest)
